@@ -11,6 +11,7 @@ Current Content
 - Multiple Linear Regression: Theory and application.
  
 Coming Soon
+
 2. Classification
 - Algorithms: K-Nearest Neighbors, Decision Trees, Regression Trees.
 3. Linear Classification
