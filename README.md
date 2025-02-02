@@ -1,5 +1,10 @@
 # Machine_Learning_Guide
 This repository is a comprehensive guide to machine learning, covering both theory and practical implementations. It is structured to help to understand algorithms conceptually and see how they work in real-world projects. Each method is explained in a dedicated Jupyter Notebook and applied to a project in a Python script.
+
+All Machine Learning projects were uploaded into this repository. You can find them in the 'Project-ML' folder. Current Projects:
+
+- Regression Project to predict the quality of wine
+
 ## Repository Structure
 The repository is organized into folders, each focusing on a major machine learning category. Each folder includes:
 - Jupyter Notebooks: Detailed explanations of the algorithms, including theoretical insights, equations, and visualizations.
