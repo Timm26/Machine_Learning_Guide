@@ -1,28 +1,22 @@
 # Machine_Learning_Guide
-This repository is a comprehensive guide to machine learning, covering both theory and practical implementations. It is structured to help to understand algorithms conceptually and see how they work in real-world projects. Each method is explained in a dedicated Jupyter Notebook and applied to a project in a Python script.
+This repository is my personal approach to create a GiHub Repository that lists and explains major Machine Learning Preprocessing steps, algorithms/ models and evaluation techniques as simple as possible.
 
-All Machine Learning projects were uploaded into this repository. You can find them in the 'Project-ML' folder. Current Projects:
+My main goal is to summarise the key aspects of practical machine learning techniques to decode the `black boxes` of algorithms, so that they are easy to understand.
 
-- Regression Project to predict the quality of wine
+I also want to showcase how I understand various machine learning algorithms and how to use their mathmatical foundation for model tuning. 
 
-## Repository Structure
-The repository is organized into folders, each focusing on a major machine learning category. Each folder includes:
-- Jupyter Notebooks: Detailed explanations of the algorithms, including theoretical insights, equations, and visualizations.
-- Python Scripts (.py): Practical applications of the algorithms on specific projects.
+The knowledge consolidated in this repository is the foundation for all Kaggle Competitions I took part in, as well as personal ML projects - which are uploaded in the Kaggle repository.
 
-Current Content
-1. Regression
-- Simple Linear Regression: Theory and application.
-- Multiple Linear Regression: Theory and application.
-- Regression Trees
+## Current Content
+1. Family of Linear Models
+- Linear Regression (Standard/Vectorized Form/ Normal Equation)
+- Gradient Descent (Batch, Stochastic, Mini-Batch)
+- Polynomial Regression & Learning Curves
+- Regularized Linear Models (Ridge, Lasso, Elastic Net & Early Stopping)
+- Logistic Regression (Decision Boundaries & Softmax Regression)
 
-2. Classification
-- K-Nearest Neighbors
-- Decision Trees
- 
 Coming Soon
-
-3. Linear Classification
-- Algorithms: Logistic Regression, Support Vector Machines (SVM), Multiclass Predictions.
-4. Clustering
-- Algorithms: K-Means Clustering and others.
+- SVM
+- Decision Tree/ Decision Forest Classifier
+- K-Mean
+- DBSCAN
